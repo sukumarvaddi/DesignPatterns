@@ -1,4 +1,5 @@
-package strategy.nochange.classes;
+package strategy.nochange;
+
 import strategy.change.interfaceimpl.FlyWithWings;
 import strategy.change.interfaceimpl.Quack;
 

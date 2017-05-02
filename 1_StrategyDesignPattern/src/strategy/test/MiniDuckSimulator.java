@@ -2,8 +2,8 @@ package strategy.test;
 
 import strategy.change.interfaceimpl.FlyWithRockets;
 import strategy.change.interfaceimpl.Squeak;
-import strategy.nochange.classes.Duck;
-import strategy.nochange.classes.MallardDuck;
+import strategy.nochange.Duck;
+import strategy.nochange.MallardDuck;
 
 public class MiniDuckSimulator {
 

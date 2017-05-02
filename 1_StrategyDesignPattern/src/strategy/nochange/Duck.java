@@ -1,4 +1,4 @@
-package strategy.nochange.classes;
+package strategy.nochange;
 import strategy.change.interfaces.FlyBehavior;
 import strategy.change.interfaces.QuackBehavior;
 
